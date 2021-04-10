@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sulfur:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sulfur_jar</output-path>
+    <root id="archive" name="Sulfur.jar">
+      <element id="module-output" name="Sulfur" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../HCTeams/lib/qLib-LATEST.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../HCTeams/lib/ProtocolLib-v1_7_R4-3.7.0-BETA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lombok.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math3-3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

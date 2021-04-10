@@ -1,0 +1,6 @@
+name: AntiCheat
+author: Atmosphere Games
+version: 1.2
+website: https://www.skyhcf.net
+main: net.skyhcf.sulfur.Sulfur
+depend: [qLib]
